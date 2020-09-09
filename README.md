@@ -1,1 +1,1 @@
-# Java-LinkedList
+# Demo setup Java-LinkedList
